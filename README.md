@@ -3,11 +3,7 @@
 
 # Account Abstraction
 
-<br/>
-<p align="center">
-<img src="./img/ethereum/account-abstraction-again.png" width="500" alt="aa">
-</p>
-<br/>
+
 
 - [Account Abstraction](#account-abstraction)
   - [What is Account Abstraction?](#what-is-account-abstraction)
